@@ -7,8 +7,8 @@ Organization: Guangdong Polytechnic Normal University, Guangzhou, China
 
 ### Code  
 * [AEWAE+CICIDS2017.ipynb](https://github.com/YafengWu/AEWAE/blob/master/AEWAE%2BCICIDS2017.ipynb): code for the sampled CICIDS2017 dataset.  
-* [AEWAE+NSL-KDD.ipynb](https://github.com/YafengWu/AEWAE/blob/master/AEWAE%2BNSL-KDD.ipynb): code for the sampled CICIDS2017 dataset. 
-* [AEWAE+IoTID20.ipynb](https://github.com/YafengWu/AEWAE/blob/master/AEWAE%2BIoTID20.ipynb): code for the sampled CICIDS2017 dataset. 
+* [AEWAE+NSL-KDD.ipynb](https://github.com/YafengWu/AEWAE/blob/master/AEWAE%2BNSL-KDD.ipynb): code for the sampled NSL-KDD dataset. 
+* [AEWAE+IoTID20.ipynb](https://github.com/YafengWu/AEWAE/blob/master/AEWAE%2BIoTID20.ipynb): code for the sampled IoTID20 dataset. 
 
 ### Requirements & Libraries  
 * Python 3.6+
